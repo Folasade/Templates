@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> Name of new website </title>
+<style>
+body {
+
+background: #3895D3;
+font-family: georgia;
+font-weight: 50;
+
+}
+h1 {
+color: #072F5F;
+font-weight: 100;
+font-size: 50px;
+}
+</style>
+</head>
+<body>
+<h1> This site is under construction. Pls check back.</h1>
+</body>
+</html>
