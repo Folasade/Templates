@@ -1,3 +1,3 @@
 # Templates
-My site templates
+My site templates <br>
 I want to keep some regular functions here.
